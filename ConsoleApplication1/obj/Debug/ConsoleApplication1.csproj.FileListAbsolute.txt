@@ -1,0 +1,6 @@
+E:\CoursWebTechnology\helloWorld\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\CoursWebTechnology\helloWorld\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\CoursWebTechnology\helloWorld\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\CoursWebTechnology\helloWorld\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\CoursWebTechnology\helloWorld\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\CoursWebTechnology\helloWorld\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
